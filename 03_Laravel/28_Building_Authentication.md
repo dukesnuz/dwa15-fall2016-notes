@@ -176,7 +176,6 @@ To configure this this edit the line `$redirectTo = '/home';` in the following f
 + `/app/Http/Controllers/Auth/`
     + `LoginController.php`
     + `RegisterController.php`
-    + `ResetPasswordController.php`
 
 
 ## Your job: fix the views
