@@ -1,1 +1,4 @@
 
+localhost accces to Mysql
+C:\MAMP\bin\mysql\bin
+$ mysql.exe --host=localhost -uroot -proot
